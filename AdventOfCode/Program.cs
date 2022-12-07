@@ -1,1 +1,3 @@
-﻿Day6.Part1(true);
+﻿using AdventOfCode;
+
+Day7.Part2();

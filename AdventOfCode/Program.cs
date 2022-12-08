@@ -1,3 +1,3 @@
 ﻿using AdventOfCode;
 
-Day7.Part2();
+Day8.Part2();
